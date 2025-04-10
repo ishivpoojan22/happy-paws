@@ -1,4 +1,4 @@
-🐾 Happy Paws
+#🐾 Happy Paws
 Happy Paws is a fun and easy-to-use website for finding pets to adopt or shopping for pet products. It’s built with Vite and React, which makes it fast and modern.
 
 ✨ What You Can Do
